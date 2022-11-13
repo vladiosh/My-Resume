@@ -191,7 +191,8 @@ body {
 
 .contacts,
 .tech-skills,
-.soft-skills {
+.soft-skills,
+.language-skills {
   margin-left: 40px;
 }
 
@@ -207,6 +208,9 @@ body {
   margin-bottom: 45px;
 }
 
+.language-skills {
+  margin-bottom: 320px;
+}
 .sidebar-title {
   color: #ffffff;
   font-style: normal;
