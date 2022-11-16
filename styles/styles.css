@@ -80,7 +80,8 @@ body {
 }
 
 .project,
-.project-link {
+.project-link,
+.projects-list-item-text {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -88,9 +89,9 @@ body {
   color: #595959;
 }
 
-.project-link {
-  margin-left: 10px;
-}
+/* .project-link {
+  margin-left: 0;
+} */
 
 .project-bracket {
   font-style: normal;
@@ -209,7 +210,7 @@ body {
 }
 
 .language-skills {
-  margin-bottom: 320px;
+  margin-bottom: 250px;
 }
 .sidebar-title {
   color: #ffffff;
