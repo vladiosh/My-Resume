@@ -79,6 +79,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #000000;
+  margin-bottom: 10px;
 }
 
 .project,
@@ -89,6 +90,8 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
+  width: 500px;
+  margin: 0;
 }
 
 /* .project-link {
