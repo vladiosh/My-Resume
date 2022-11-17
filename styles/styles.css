@@ -31,6 +31,7 @@ body {
   line-height: 17px;
   color: #000000;
   margin-bottom: 20px;
+  margin-top: 0;
 }
 
 .about-name {
@@ -49,6 +50,7 @@ body {
   line-height: 24px;
   color: #595959;
   width: 500px;
+  margin: 0;
 }
 
 /* project styles */
